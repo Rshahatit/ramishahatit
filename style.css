@@ -1,13 +1,15 @@
+body {
+  background: LightCyan;
+}
+
 h1 {
   font-family: 'Playfair Display SC', sans-serif;
   font-size: 60px;
-  background: gold;
   color: blue;
 }
 
 h2 {
   font-family: 'Playfair Display SC', sans-serif;
   font-size:40px;
-  background: blue;
   color: gold;
 }
