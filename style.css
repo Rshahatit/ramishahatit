@@ -3,9 +3,9 @@ body {
 }
 
 .name {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_singaporeskyline.jpeg");
-  height: 400px;
-  background-position: bottom center;
+  background-image: url("https://cdn2.datascience.berkeley.edu/content/f0d7d684b0824d97b9ff663b21cd9752/hero-light.jpg");
+  height: 500px;
+  background-position:  center ;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
   color: blue;
   text-align: center;
   margin-bottom: 10px;
-  margin-top: 150px;
+  padding-top: 150px;
   border: 5px solid rgba(0, 0, 0, 0.3);
 }
 
