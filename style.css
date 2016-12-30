@@ -2,14 +2,27 @@ body {
   background: LightCyan;
 }
 
+.name {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_singaporeskyline.jpeg");
+  height: 400px;
+  background-position: bottom center;
+}
+
 h1 {
   font-family: 'Playfair Display SC', sans-serif;
   font-size: 60px;
   color: blue;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 150px;
+  border: 5px solid rgba(0, 0, 0, 0.3);
 }
 
 h2 {
   font-family: 'Playfair Display SC', sans-serif;
-  font-size:40px;
+  font-size:30px;
   color: gold;
+ 
+  text-align: center;
+  margin-top: -10px;
 }
