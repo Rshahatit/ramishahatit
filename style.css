@@ -3,30 +3,38 @@
 	padding: 0;
 }
 
-
-.name {
-background-image: url("https://cdn2.datascience.berkeley.edu/content/f0d7d684b0824d97b9ff663b21cd9752/hero-light.jpg");
-  background-position: center center;
-  background-size: cover;
-  height: 700px;
-  width: 100%;
+body {
+  background-color: AliceBlue;
+  padding: 10px;  
+  border: 4px solid #A2D3F4;
+  margin: 40px;
 }
 
+ul {
+  text-align: center;
+}
 
+li {
+  display: inline-block;
+  margin: 5px;
+  padding:3px;
+  border: 1px solid #A2D3F4;
+}
 h1 {
   font-family: 'Playfair Display SC', sans-serif;
-  font-size: 60px;
-  color: gold;
+  font-size: 40px;
+  color: black;
   text-align: center;
   margin-bottom: 10px;
-  padding-top: 150px;
+  padding-top: 10px;
 }
 
-h2, h3 {
-  font-family: 'Playfair Display SC', sans-serif;
-  font-size:20px;
-  color: gold;
- 
-  text-align: center;
-  margin-top: -10px;
+.text {
+  display:inline;
 }
+
+.pic {
+  display: block-inline;
+	
+}
+
