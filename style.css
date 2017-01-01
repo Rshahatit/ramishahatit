@@ -1,26 +1,30 @@
-body {
-  background: LightCyan;
+* {
+	margin: 0;
+	padding: 0;
 }
 
+
 .name {
-  background-image: url("https://cdn2.datascience.berkeley.edu/content/f0d7d684b0824d97b9ff663b21cd9752/hero-light.jpg");
-  height: 500px;
-  background-position:  center ;
+background-image: url("https://cdn2.datascience.berkeley.edu/content/f0d7d684b0824d97b9ff663b21cd9752/hero-light.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
 }
+
 
 h1 {
   font-family: 'Playfair Display SC', sans-serif;
   font-size: 60px;
-  color: blue;
+  color: gold;
   text-align: center;
   margin-bottom: 10px;
   padding-top: 150px;
-  border: 5px solid rgba(0, 0, 0, 0.3);
 }
 
-h2 {
+h2, h3 {
   font-family: 'Playfair Display SC', sans-serif;
-  font-size:30px;
+  font-size:20px;
   color: gold;
  
   text-align: center;
