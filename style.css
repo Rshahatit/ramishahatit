@@ -1,33 +1,34 @@
+* {
+  display: border-box;
+
+}
 body {
-  background-color: FloralWhite;
-  padding: 50px;  
-  border: 4px solid #A2D3F4;
+  background-color: White;
+  padding: 20px;  
 }
 
 ul {
-  text-align: center;
-  text-decoration: none;
+  width:330px;
+  margin: 0px auto;
+  padding-bottom: 50px;
 }
 
+
 li {
-  display: inline;
+  display:inline;
+	text-align:center;
+  margin: 10px;
 }
 
 li a {
-  display: inline-block;
-  margin: 5px;
-  padding:3px;
- 
-
   font-family: 'Yantramanav', sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: black;
-
-  
   text-decoration: none;
   text-transform: uppercase;
 }
+
 h1 {
   font-family: 'Playfair Display SC', sans-serif;
   font-size: 40px;
@@ -44,9 +45,14 @@ h1 a {
 }
 
 .pic {
-  border: 2px solid blue;
-  display:inline-block;
-  position: center;
+  border: 2px solid black;
+  width: 200px;
+  display:block;
+  margin: 0px auto; 
+}
+
+p {
+  text-align: center;
 }
 
 
