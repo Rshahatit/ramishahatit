@@ -8,9 +8,9 @@ body {
 }
 
 ul {
-  width:330px;
+  width:290px;
   margin: 0px auto;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
 }
 
 
@@ -51,7 +51,7 @@ h1 a {
   margin: 0px auto; 
 }
 
-p {
+p, h2 {
   text-align: center;
 }
 
