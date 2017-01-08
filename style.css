@@ -75,8 +75,9 @@ p, h2 {
 }
 
 .social-media  {
-  float:right;
   text-align: center;
+	width:400px;
+  margin: 0 auto;
   
 }
 
