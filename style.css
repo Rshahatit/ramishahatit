@@ -76,8 +76,9 @@ p, h2 {
 
 .social-media  {
   text-align: center;
-  margin: 0 auto;
+  width: 300px;
   display:block;
+  margin: 0 auto;
   vertical-align:middle;
   
 }
