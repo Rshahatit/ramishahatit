@@ -79,7 +79,7 @@ p, h2 {
   text-align: center;
   width: 300px;
 	float: right;
-  display:block;
+  display: inline-block;
 }
 
 
